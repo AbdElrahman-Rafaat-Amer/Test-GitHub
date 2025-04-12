@@ -33,9 +33,9 @@ bin/
 
 /src/Passsword.kt
 /.idea/git_toolbox_prj.xml
-/.idea/kotlinc.xml
-/.idea/libraries/KotlinJavaRuntime.xml
+#/.idea/kotlinc.xml
+#/.idea/libraries/KotlinJavaRuntime.xml
 /.idea/misc.xml
 /.idea/modules.xml
-/.idea/inspectionProfiles/Project_Default.xml
+#/.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
