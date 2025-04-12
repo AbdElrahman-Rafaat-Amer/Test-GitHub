@@ -15,4 +15,6 @@ fun main() {
     println("facePassword $facePassword")
     println("instaPassword $instaPassword")
     println("xPassword $xPassword")
+
+    println("Test from Project1")
 }
