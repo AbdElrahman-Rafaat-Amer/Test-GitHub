@@ -12,5 +12,7 @@ fun main() {
         println("i = $i")
     }
 
-    print("facePassword $facePassword")
+    println("facePassword $facePassword")
+    println("instaPassword $instaPassword")
+    println("xPassword $xPassword")
 }
