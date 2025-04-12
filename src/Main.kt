@@ -16,10 +16,16 @@ fun main() {
     println("instaPassword $instaPassword")
     println("xPassword $xPassword")
 
+    addNumbers(4,4)
+
     println("Test from Project1")
 
     println("Hi I am the second project")
     println("I finished my work")
 
     println("still in project2")
+}
+
+fun addNumbers(x: Int, y:Int) : Int{
+    return x + y
 }
