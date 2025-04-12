@@ -16,6 +16,8 @@ fun main() {
     println("instaPassword $instaPassword")
     println("xPassword $xPassword")
 
+    println("Test from Project1")
+
     println("Hi I am the second project")
     println("I finished my work")
 }
