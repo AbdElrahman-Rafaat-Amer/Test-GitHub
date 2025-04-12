@@ -32,10 +32,10 @@ bin/
 .DS_Store
 
 /src/Passsword.kt
-/.idea/git_toolbox_prj.xml
+#/.idea/git_toolbox_prj.xml
 #/.idea/kotlinc.xml
 #/.idea/libraries/KotlinJavaRuntime.xml
-/.idea/misc.xml
-/.idea/modules.xml
+#/.idea/misc.xml
+#/.idea/modules.xml
 #/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
+#/.idea/vcs.xml
