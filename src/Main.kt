@@ -20,4 +20,6 @@ fun main() {
 
     println("Hi I am the second project")
     println("I finished my work")
+
+    println("still in project2")
 }
